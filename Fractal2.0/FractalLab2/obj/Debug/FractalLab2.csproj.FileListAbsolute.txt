@@ -1,0 +1,35 @@
+C:\Users\bsanc\source\repos\FractalLab2\FractalLab2\bin\Debug\FractalLab2.exe.config
+C:\Users\bsanc\source\repos\FractalLab2\FractalLab2\bin\Debug\FractalLab2.exe
+C:\Users\bsanc\source\repos\FractalLab2\FractalLab2\bin\Debug\FractalLab2.pdb
+C:\Users\bsanc\source\repos\FractalLab2\FractalLab2\obj\Debug\FractalLab2.csprojAssemblyReference.cache
+C:\Users\bsanc\source\repos\FractalLab2\FractalLab2\obj\Debug\FractalLab2.Form1.resources
+C:\Users\bsanc\source\repos\FractalLab2\FractalLab2\obj\Debug\FractalLab2.Properties.Resources.resources
+C:\Users\bsanc\source\repos\FractalLab2\FractalLab2\obj\Debug\FractalLab2.csproj.GenerateResource.cache
+C:\Users\bsanc\source\repos\FractalLab2\FractalLab2\obj\Debug\FractalLab2.csproj.CoreCompileInputs.cache
+C:\Users\bsanc\source\repos\FractalLab2\FractalLab2\obj\Debug\FractalLab2.exe
+C:\Users\bsanc\source\repos\FractalLab2\FractalLab2\obj\Debug\FractalLab2.pdb
+C:\Users\bsanc\source\repos\FractalLab2\FractalLab2\obj\Debug\FractalLab2.About.resources
+C:\Users\bsanc\source\repos\FractalLab2 — копия\FractalLab2\bin\Debug\FractalLab2.exe.config
+C:\Users\bsanc\source\repos\FractalLab2 — копия\FractalLab2\bin\Debug\FractalLab2.exe
+C:\Users\bsanc\source\repos\FractalLab2 — копия\FractalLab2\bin\Debug\FractalLab2.pdb
+C:\Users\bsanc\source\repos\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.csprojAssemblyReference.cache
+C:\Users\bsanc\source\repos\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.About.resources
+C:\Users\bsanc\source\repos\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.Form1.resources
+C:\Users\bsanc\source\repos\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.Properties.Resources.resources
+C:\Users\bsanc\source\repos\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.csproj.GenerateResource.cache
+C:\Users\bsanc\source\repos\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.csproj.CoreCompileInputs.cache
+C:\Users\bsanc\source\repos\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.exe
+C:\Users\bsanc\source\repos\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.pdb
+C:\Users\tolch\OneDrive\Рабочий стол\FractalLab2__kopia\FractalLab2 — копия\FractalLab2\bin\Debug\FractalLab2.exe.config
+C:\Users\tolch\OneDrive\Рабочий стол\FractalLab2__kopia\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.exe
+C:\Users\tolch\OneDrive\Рабочий стол\FractalLab2__kopia\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.pdb
+C:\Users\tolch\OneDrive\Рабочий стол\FractalLab2__kopia\FractalLab2 — копия\FractalLab2\bin\Debug\FractalLab2.exe
+C:\Users\tolch\OneDrive\Рабочий стол\FractalLab2__kopia\FractalLab2 — копия\FractalLab2\bin\Debug\FractalLab2.pdb
+C:\Users\tolch\OneDrive\Рабочий стол\FractalLab2__kopia\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.csprojResolveAssemblyReference.cache
+C:\Users\tolch\OneDrive\Рабочий стол\FractalLab2__kopia\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.About.resources
+C:\Users\tolch\OneDrive\Рабочий стол\FractalLab2__kopia\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.Form1.resources
+C:\Users\tolch\OneDrive\Рабочий стол\FractalLab2__kopia\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.Properties.Resources.resources
+C:\Users\tolch\OneDrive\Рабочий стол\FractalLab2__kopia\FractalLab2 — копия\FractalLab2\obj\Debug\FractalLab2.csproj.GenerateResource.Cache
+C:\Users\tolch\OneDrive\Рабочий стол\Fractal2.0\Fractal2.0\FractalLab2\bin\Debug\FractalLab2.exe.config
+C:\Users\tolch\OneDrive\Рабочий стол\Fractal2.0\Fractal2.0\FractalLab2\obj\Debug\FractalLab2.exe
+C:\Users\tolch\OneDrive\Рабочий стол\Fractal2.0\Fractal2.0\FractalLab2\obj\Debug\FractalLab2.pdb
