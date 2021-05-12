@@ -1,0 +1,18 @@
+C:\Users\Bird\Desktop\DrawLaba3\DrawLaba3\DrawLaba3\bin\Debug\DrawLaba3.exe.config
+C:\Users\Bird\Desktop\DrawLaba3\DrawLaba3\DrawLaba3\bin\Debug\DrawLaba3.exe
+C:\Users\Bird\Desktop\DrawLaba3\DrawLaba3\DrawLaba3\bin\Debug\DrawLaba3.pdb
+C:\Users\Bird\Desktop\DrawLaba3\DrawLaba3\DrawLaba3\obj\Debug\DrawLaba3.csprojResolveAssemblyReference.cache
+C:\Users\Bird\Desktop\DrawLaba3\DrawLaba3\DrawLaba3\obj\Debug\DrawLaba3.Form1.resources
+C:\Users\Bird\Desktop\DrawLaba3\DrawLaba3\DrawLaba3\obj\Debug\DrawLaba3.Properties.Resources.resources
+C:\Users\Bird\Desktop\DrawLaba3\DrawLaba3\DrawLaba3\obj\Debug\DrawLaba3.csproj.GenerateResource.Cache
+C:\Users\Bird\Desktop\DrawLaba3\DrawLaba3\DrawLaba3\obj\Debug\DrawLaba3.exe
+C:\Users\Bird\Desktop\DrawLaba3\DrawLaba3\DrawLaba3\obj\Debug\DrawLaba3.pdb
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\DrawLaba3\DrawLaba3\DrawLaba3\bin\Debug\DrawLaba3.exe.config
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\DrawLaba3\DrawLaba3\DrawLaba3\bin\Debug\DrawLaba3.exe
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\DrawLaba3\DrawLaba3\DrawLaba3\bin\Debug\DrawLaba3.pdb
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\DrawLaba3\DrawLaba3\DrawLaba3\obj\Debug\DrawLaba3.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\DrawLaba3\DrawLaba3\DrawLaba3\obj\Debug\DrawLaba3.Form1.resources
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\DrawLaba3\DrawLaba3\DrawLaba3\obj\Debug\DrawLaba3.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\DrawLaba3\DrawLaba3\DrawLaba3\obj\Debug\DrawLaba3.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\DrawLaba3\DrawLaba3\DrawLaba3\obj\Debug\DrawLaba3.exe
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\DrawLaba3\DrawLaba3\DrawLaba3\obj\Debug\DrawLaba3.pdb
