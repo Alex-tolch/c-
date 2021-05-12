@@ -1,0 +1,36 @@
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab_4\Lab_4\obj\Debug\Lab_4.csprojResolveAssemblyReference.cache
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab_4\Lab_4\obj\Debug\Lab_4.Form1.resources
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab_4\Lab_4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.Cache
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
+C:\Users\DNS\Desktop\Компьютерная графика\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+C:\Users\DNS\Desktop\Компьютерная графика\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+C:\Users\DNS\Desktop\Компьютерная графика\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
+C:\Users\DNS\Desktop\Компьютерная графика\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+C:\Users\DNS\Desktop\Компьютерная графика\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+C:\Users\DNS\Desktop\Компьютерная графика\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csprojResolveAssemblyReference.cache
+C:\Users\DNS\Desktop\Компьютерная графика\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.Form1.resources
+C:\Users\DNS\Desktop\Компьютерная графика\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\Users\DNS\Desktop\Компьютерная графика\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.Cache
+C:\Users\Bird\Desktop\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+C:\Users\Bird\Desktop\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+C:\Users\Bird\Desktop\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
+C:\Users\Bird\Desktop\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+C:\Users\Bird\Desktop\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+C:\Users\Bird\Desktop\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csprojResolveAssemblyReference.cache
+C:\Users\Bird\Desktop\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.Form1.resources
+C:\Users\Bird\Desktop\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\Users\Bird\Desktop\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.Form1.resources
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+C:\Users\Алексей\Desktop\Документы\ИВТ 2 КУРС 2017-18\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
