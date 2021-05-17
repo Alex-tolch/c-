@@ -1,0 +1,46 @@
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\bin\Debug\lab4.exe.config
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\bin\Debug\lab4.exe
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\bin\Debug\lab4.pdb
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\obj\Debug\lab4.Form1.resources
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\obj\Debug\lab4.exe
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+C:\Users\bsanc\source\repos\lab4_network_mail\lab4\bin\Debug\lab4.exe.config
+C:\Users\bsanc\source\repos\lab4_network_mail\lab4\bin\Debug\lab4.exe
+C:\Users\bsanc\source\repos\lab4_network_mail\lab4\bin\Debug\lab4.pdb
+C:\Users\bsanc\source\repos\lab4_network_mail\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\bsanc\source\repos\lab4_network_mail\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\bsanc\source\repos\lab4_network_mail\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\bsanc\source\repos\lab4_network_mail\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\bsanc\source\repos\lab4_network_mail\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\bsanc\source\repos\lab4_network_mail\lab4\obj\Debug\lab4.exe
+C:\Users\bsanc\source\repos\lab4_network_mail\lab4\obj\Debug\lab4.pdb
+C:\Users\Алексей\Desktop\netlabs-bozhimov\lab4_network_mail\lab4\bin\Debug\lab4.exe.config
+C:\Users\Алексей\Desktop\netlabs-bozhimov\lab4_network_mail\lab4\bin\Debug\lab4.exe
+C:\Users\Алексей\Desktop\netlabs-bozhimov\lab4_network_mail\lab4\bin\Debug\lab4.pdb
+C:\Users\Алексей\Desktop\netlabs-bozhimov\lab4_network_mail\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\netlabs-bozhimov\lab4_network_mail\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\Алексей\Desktop\netlabs-bozhimov\lab4_network_mail\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Алексей\Desktop\netlabs-bozhimov\lab4_network_mail\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\netlabs-bozhimov\lab4_network_mail\lab4\obj\Debug\lab4.exe
+C:\Users\Алексей\Desktop\netlabs-bozhimov\lab4_network_mail\lab4\obj\Debug\lab4.pdb
+C:\Users\Алексей\Desktop\lab4_network_mail\lab4\bin\Debug\lab4.exe.config
+C:\Users\Алексей\Desktop\lab4_network_mail\lab4\bin\Debug\lab4.exe
+C:\Users\Алексей\Desktop\lab4_network_mail\lab4\bin\Debug\lab4.pdb
+C:\Users\Алексей\Desktop\lab4_network_mail\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\lab4_network_mail\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\Алексей\Desktop\lab4_network_mail\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Алексей\Desktop\lab4_network_mail\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\lab4_network_mail\lab4\obj\Debug\lab4.exe
+C:\Users\Алексей\Desktop\lab4_network_mail\lab4\obj\Debug\lab4.pdb
